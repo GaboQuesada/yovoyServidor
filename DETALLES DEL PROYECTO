@@ -1,0 +1,25 @@
+# este sistema es el webservice server esta construido en php
+# la base de datos a usar es mysql
+# conexione persistente PDO
+# el sistema se encuentra en linea en un servidor de hostinger 
+
+
+#NOMBRE DEL PROYECTO YOVOY
+#DESCRIPCION
+#Un sistema para poder hacer audiciones
+
+#proyecto total
+
+#servidor php :conexione persistente PDO
+#cliente android para los jurados :consumiendo el webservice RESTFYULL/JSON 
+#cliente web para los administradores de sistema : con conexione persistente a mysqli por procedimientos 
+#cliente xamarin para los administradores del sistema :consumiendo el webservice RESTFYULL/JSON 
+#cliente web generalisimo del sistema : con conexione persistente mysqli orientado a objetos 
+
+#creado por GabrielQuesadaSanchez 
+
+#sitio y contenido
+
+#servidor: en el servidor remoto de hostinger bajo el dominio yovoy.tk
+#clienteAndroid {jurado} aplicacion nativa escrita en java  nombre del app: yovoy 
+#clientexamrin {Administradores } aplicacion hibrida escrita en c# nombre del app: yo voy 
