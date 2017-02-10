@@ -3,7 +3,7 @@
 interface UserDao
 {
     
-    public function 
+    public function getAllUser();
     
     
 }
